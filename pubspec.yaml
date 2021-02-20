@@ -15,7 +15,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  uuid: any
+  uuid: 3.0.0-nullsafety.1
 
 dev_dependencies:
   flutter_test:
